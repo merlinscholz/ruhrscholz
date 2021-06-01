@@ -1,4 +1,11 @@
-### Hi there 👋
+## [Moin](https://en.wikipedia.org/wiki/Moin) there, my name is Merlin!
+
+- 👨🏻‍🎓✅ B.Sc. Applied Computer Sciences
+- 👨🏻‍🎓🚧 M.Sc. Computer Sciences (wip)
+- 🌍 NRW, Germany
+- 🐦 [@ruhrscholz](https://twitter.com/ruhrscholz)
+- 🌐 [scholz.ruhr](https://scholz.ruhr) (always under construction 😉)
+- 📧 merlin@scholz.ruhr
 
 <!--
 **ruhrscholz/ruhrscholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
