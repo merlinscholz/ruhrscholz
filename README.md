@@ -4,5 +4,6 @@
 - 👨🏻‍🎓🚧 M.Sc. Computer Sciences (wip)
 - 🌍 NRW, Germany
 - 🐦 [@ruhrscholz](https://twitter.com/ruhrscholz)
-- 🌐 [scholz.ruhr](https://scholz.ruhr) (always under construction 😉)
-- 📧 contact@scholz.ruhr
+- 🐘 [@ruhrscholz@toot.kif.rocks](https://toot.kif.rocks/@ruhrscholz)
+- 🌐 [scholz.ruhr](https://scholz.ruhr)
+- 📧 [contact@scholz.ruhr](mailto:contact@scholz.ruhr)
