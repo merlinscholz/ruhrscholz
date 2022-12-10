@@ -3,5 +3,5 @@
 - 🌍 NRW, Germany
 - 🐘 [@ruhrscholz@toot.kif.rocks](https://toot.kif.rocks/@ruhrscholz)
 - 🌐 [scholz.ruhr](https://scholz.ruhr)
-- 📧 [contact@scholz.ruhr](mailto:hi@scholz.ruhr)
+- 📧 [hi@scholz.ruhr](mailto:hi@scholz.ruhr)
 - [Everything else](https://ruhrscholz.mataroa.blog/socials/)
